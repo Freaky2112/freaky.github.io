@@ -4,8 +4,6 @@ title: Contact
 permalink: /about/contact
 ---
 
+## E-Mail
 
-# E-mail
-
-you can contact me @ : freaky@networkeclipse.com
-
+you can contact me @ freaky@networkeclipse.com
